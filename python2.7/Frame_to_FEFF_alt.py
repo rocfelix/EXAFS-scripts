@@ -3,7 +3,7 @@
 # Small script for extracting the geometry from a TeraChem frame
 # and return it as a xyz-file suitable for FEFF, with specific index 0.
 #
-# Jan Rosdahl
+# Peng Liu
 #
 import math
 import re
